@@ -1,6 +1,6 @@
-# Slot 4 Editable Manifest
+# Editable Manifest
 
-Slot 4 is now a reference-ready editable UI architecture.
+This folder holds the full editable presentation layer for the site.
 
 ## Contract
 
