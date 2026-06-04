@@ -56,7 +56,7 @@ export default async function HomePage() {
       <EditableStoryRail primaryTask={primaryTask} primaryRoute={primaryRoute} posts={primaryPosts} timeSections={timeSections} />
       <EditableMagazineSplit primaryTask={primaryTask} primaryRoute={primaryRoute} posts={primaryPosts} timeSections={timeSections} />
       <EditableTimeCollections primaryTask={primaryTask} primaryRoute={primaryRoute} posts={primaryPosts} timeSections={timeSections} />
-      <EditableHomeCta />
+      <EditableHomeCta primaryRoute={primaryRoute} />
       </main>
     </EditableSiteShell>
   )
